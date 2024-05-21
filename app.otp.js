@@ -3,7 +3,7 @@ const otp = document.querySelector("#otp");
 
 const serviceId = "service_d6me3am";
 const userId = "TW3eLRAOMUcH1InEX";
-const templateId = "template_h31bthj";
+const templateId = "template_z8b5i0p";
 // Add event listeners to move the cursor to the next input field
 var pinInputs = document.getElementsByClassName("pin-input");
 
